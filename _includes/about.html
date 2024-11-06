@@ -15,13 +15,14 @@ Contributing to the strengthening and development of international advanced comp
   <div class="container">
       <div class="row">
           <div class="col-lg-8 col-lg-offset-2 text-center">
-              <h3>Location and Scale</h3>
+          <h3 class="section-subheading text-muted">{{ site.data.sitetext[site.locale].about.text | default: "Location and Scale" }}</h3>
               <p class="text-faded">201, Gukgasandanseo-ro, Guji-myeon, Dalseong-gun, Daegu, 43011, Republic of Korea.<br>Test track of 394,565m² and operation of related equipment.</p>
               <p> <img src="assets/img/about/kiapi_location.png" width="60%" height="60%" align="center"> </p>
           </div>
       </div>
   </div>
 </section>
+
 {% else %}
 <section class="page-section" id="{{ site.data.sitetext.about.section | default: "about" }}">
   <div class="container">
@@ -38,7 +39,7 @@ Contributing to the strengthening and development of international advanced comp
   <div class="container">
       <div class="row">
           <div class="col-lg-8 col-lg-offset-2 text-center">
-              <h3>Location and Scale</h3>
+          <h3 class="section-subheading text-muted">{{ site.data.sitetext[site.locale].about.text | default: "Location and Scale" }}</h3>
               <p class="text-faded">201, Gukgasandanseo-ro, Guji-myeon, Dalseong-gun, Daegu, 43011, Republic of Korea.<br>Test track of 394,565m² and operation of related equipment.</p>
               <p> <img src="assets/img/about/kiapi_location.png" width="60%" height="60%" align="center"> </p>
          </div>
