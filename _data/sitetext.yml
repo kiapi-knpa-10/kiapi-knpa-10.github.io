@@ -15,7 +15,6 @@ en: &DEFAULT_EN
     text: 
     button: Find Out More
     buttonlink: "#about"
-    height: 960px
 
   about:
     title: "About Us"
