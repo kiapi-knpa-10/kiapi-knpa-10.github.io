@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: 자율주행자동차 교통사고 조사·분석 기술 개발을 위한 교통사고 재현 S/W 개발
-    text: 대표 자율주행 사고상황 모사재현 시뮬레이션 데이터베이스 S/W
+    text: 대표 자율주행 사고상황 모사재현 시뮬레이션 데이터베이스
     button: Find Out More
     buttonlink: "#about"
 
