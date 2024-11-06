@@ -4,5 +4,7 @@
 #black: "#000"
 
 #Image Customization
-header-image: "../img/header-bg.jpg"
+header-image:
+  path: "../img/header-bg.jpg"
+  min-width: 960
 contact-image: "../img/map-image.png"
