@@ -15,8 +15,6 @@ en: &DEFAULT_EN
       section: about
     - title: "Contents"
       section: portfolio
-    - title: "Team"
-      section: team
     - title: "Contact"
       section: contact
     - title: "Kiapi Website"
