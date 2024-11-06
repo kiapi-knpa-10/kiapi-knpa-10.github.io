@@ -1,18 +1,19 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/02-full.jpg
-alt: Keep Exploring
+title: Case no.2  / Scene no.1
+subtitle: "- 실도로 -"
+image: assets/img/portfolio/01-full.jpg
+alt: Shirts on a hanger
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
-  thumbnail: assets/img/portfolio/02-thumbnail.jpg
+title: Case no.2  / Scene no.1
+  subtitle: "- 실도로 -"
+  thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+**Sequence 1**: 
+**Sequence 2**: 
+**Sequence 3**: 
 
 {:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
-
+- 사고차량 차종: 
+- 충돌 시 차량 속도: kph(mph)
+- 차량 손상 위치: 

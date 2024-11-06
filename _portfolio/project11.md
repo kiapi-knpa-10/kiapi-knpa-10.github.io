@@ -1,18 +1,19 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/05-full.jpg
-alt: 
+title: Case no.5  / Scene no.2
+subtitle: "- 주행시험장 -"
+image: assets/img/portfolio/01-full.jpg
+alt: Shirts on a hanger
 
 caption:
-  title: Southwest
-  subtitle: Website Design
-  thumbnail: assets/img/portfolio/05-thumbnail.jpg
+title: Case no.5  / Scene no.2
+  subtitle: "- 주행시험장 -"
+  thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+**Sequence 1**: 
+**Sequence 2**: 
+**Sequence 3**: 
 
 {:.list-inline}
-- Date: October 2019
-- Client: Southwest
-- Category: Website Design
-
+- 사고차량 차종: 
+- 충돌 시 차량 속도: kph(mph)
+- 차량 손상 위치: 
