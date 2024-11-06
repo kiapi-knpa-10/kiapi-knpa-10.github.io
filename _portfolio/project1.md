@@ -1,12 +1,12 @@
 ---
 title: Case no.1  / Scene no.1
-subtitle: (실도로)
+subtitle: - 실도로 -
 image: assets/img/portfolio/01-full.jpg
 alt: Shirts on a hanger
 
 caption:
   title: Case no.1  / Scene no.1
-  subtitle: (실도로)
+  subtitle: - 실도로 -
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
 **Sequence 1**: 교차로에서 Ego차량이 자율주행 기능을 활성화한 채 주행  
