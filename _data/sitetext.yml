@@ -45,9 +45,9 @@ en: &DEFAULT_EN
       - title: "Samsong"
         url: https://www.samsong.com/main/?skin=index_kor.html
         logo: assets/img/clients/Samsong.jpg
-      - title: "KIAPI"
-        url: https://www.kiapi.or.kr
-        logo: assets/img/clients/KIAPI.jpg
+#      - title: "KIAPI"
+#        url: https://www.kiapi.or.kr
+#        logo: assets/img/clients/KIAPI.jpg
 
   contact:
     title: "Contact Us"
