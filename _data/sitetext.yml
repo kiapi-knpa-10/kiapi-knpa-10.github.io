@@ -77,7 +77,7 @@ en: &DEFAULT_EN
 
   clients:
     section: clients
-    max-height: 100px
+    max-height: 60px
     horizontal-scrolling: "" #"yes/no"
     list:
       - title: "KNPA"
