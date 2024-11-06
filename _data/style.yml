@@ -5,6 +5,6 @@
 
 #Image Customization
 header-image:
-  path: assets/img/header-bg.jpg
+  path: "../img/header-bg.jpg"
   height: 960
 contact-image: "../img/map-image.png"
