@@ -22,11 +22,11 @@ en: &DEFAULT_EN
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: about
 
-  portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+  contents:
+    title: "Contents"
+    text: 
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Close"
 
   clients:
     section: clients
