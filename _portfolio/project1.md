@@ -1,11 +1,11 @@
 ---
-title: Case no.1  - Scene no.1
+title: Case no.1  / Scene no.1
 subtitle: in the real road
 image: assets/img/portfolio/01-full.jpg
 alt: Shirts on a hanger
 
 caption:
-  title: Case no.1  - Scene no.1
+  title: Case no.1  / Scene no.1
   subtitle: in the real road
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
