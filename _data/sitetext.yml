@@ -17,9 +17,9 @@ en: &DEFAULT_EN
 #    buttonlink: "#services"
 
   services:
-    title: "Services"
+    title: "Introduction"
     text: "Lorem ipsum"
-    section: services
+    section: Introduction
     list:
       - title: "E-Commerce"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
