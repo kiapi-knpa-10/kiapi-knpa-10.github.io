@@ -1,11 +1,11 @@
 ---
-title: Usecase '#'1 / Scenario '#'1
+title: Usecase no.1 - Scenario no.1
 subtitle: in the real road
 image: assets/img/portfolio/01-full.jpg
 alt: Shirts on a hanger
 
 caption:
-  title: Usecase '#'1 / Scenario '#'1
+  title: Usecase no.1 - Scenario no.1
   subtitle: in the real road
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
