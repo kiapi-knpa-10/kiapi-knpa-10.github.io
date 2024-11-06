@@ -28,12 +28,12 @@ header.masthead {
 @media (min-width: 768px) {
   header.masthead {
     .intro-text {
-      padding-top: 350px;
-      padding-bottom: 250px;
+      padding-top: 320px;
+      padding-bottom: 280px;
       .intro-lead-in {
         font-size: 24px;
         line-height: 40px;
-        margin-bottom: 50px;
+        margin-bottom: 30px;
         @include heading-font;
       }
       .intro-heading {
