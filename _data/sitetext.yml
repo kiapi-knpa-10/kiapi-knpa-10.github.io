@@ -25,7 +25,7 @@ en: &DEFAULT_EN
   contents:
     title: "Contents"
     text: 
-    section: portfolio
+    section: contents
     closebutton: "Close"
 
   clients:
