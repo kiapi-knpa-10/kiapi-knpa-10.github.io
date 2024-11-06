@@ -17,9 +17,9 @@ en: &DEFAULT_EN
     buttonlink: "#about"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "About KIAPI"
+    text: ""
+    body: ""
     section: about
 
   portfolio:
