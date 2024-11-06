@@ -80,18 +80,18 @@ en: &DEFAULT_EN
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+      - title: "KNPA"
+        url: https://www.police.go.kr
+        logo: assets/img/clients/KNPA.jpg
+      - title: "KIPoT"
+        url: https://kipot.or.kr/
+        logo: assets/img/clients/KIPoT.jpg
+      - title: "KADIF"
+        url: https://www.kadif.kr/
+        logo: assets/img/clients/KADIF.jpg
+      - title: "Samsong"
+        url: https://www.samsong.com/main/?skin=index_kor.html
+        logo: assets/img/clients/Samsong.jpg
 
   team:
     title: "OUR AMAZING TEAM"
