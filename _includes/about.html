@@ -1,11 +1,10 @@
 <!-- About -->
 {% if site.locale and site.locale != "" and site.locale != nil %}
 <section class="page-section" id="{{ site.data.sitetext[site.locale].about.section | default: "about" }}">
-  <br>
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
-        <h2 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].about.title | default: "About KIAPI" }}</h2>
+        <h2 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].about.title | default: "About KIAPI" }}</h2>  <br>  <br>
         <h3>{{ site.data.sitetext[site.locale].about.text | default: "Purpose of Establishment" }}</h3>  <br>
         <p class="text-faded">KIAPI will support evaluation of parts of autonomous vehicles and ADAS for local auto parts suppliers with limited development and continuous growth due to changes in internal and external condition, and to become a necessary facility in the local auto parts industry.
 Contributing to the strengthening and development of international advanced competitiveness of high premium auto parts industry and related industries through infrastructure construction and efficient management and operation to foster the rights of auto parts makers and to foster ITS-based automotive parts base valley.</p>
@@ -25,15 +24,26 @@ Contributing to the strengthening and development of international advanced comp
           </div>
       </div>
   </div>
+
+  <br><br>
+  
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading text-uppercase">{{ site.data.sitetext.about.title | default: "About Data Base" }}</h2>  <br>  <br>
+        <h3>{{ site.data.sitetext.about.text | default: "Purpose of Establishment" }}</h3>  <br>
+        <p class="text-faded">Descript in this location</p>
+      </div>
+    </div>
+  </div>
 </section>
 
 {% else %}
 <section class="page-section" id="{{ site.data.sitetext.about.section | default: "about" }}">
-  <br>
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
-        <h2 class="section-heading text-uppercase">{{ site.data.sitetext.about.title | default: "About KIAPI" }}</h2>
+        <h2 class="section-heading text-uppercase">{{ site.data.sitetext.about.title | default: "About KIAPI" }}</h2>  <br>  <br>
         <h3>{{ site.data.sitetext.about.text | default: "Purpose of Establishment" }}</h3>  <br>
         <p class="text-faded">KIAPI will support evaluation of parts of autonomous vehicles and ADAS for local auto parts suppliers with limited development and continuous growth due to changes in internal and external condition, and to become a necessary facility in the local auto parts industry.
 Contributing to the strengthening and development of international advanced competitiveness of high premium auto parts industry and related industries through infrastructure construction and efficient management and operation to foster the rights of auto parts makers and to foster ITS-based automotive parts base valley.</p>
@@ -52,6 +62,18 @@ Contributing to the strengthening and development of international advanced comp
               <p> <img src="assets/img/about/kiapi_location.png" width="960" height="auto" class="center"> </p>
          </div>
       </div>
+  </div>
+
+  <br><br>
+  
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading text-uppercase">{{ site.data.sitetext.about.title | default: "About Data Base" }}</h2>  <br>  <br>
+        <h3>{{ site.data.sitetext.about.text | default: "Purpose of Establishment" }}</h3>  <br>
+        <p class="text-faded">Descript in this location</p>
+      </div>
+    </div>
   </div>
 </section>
 
