@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: 
-    text: 
+    title: " "
+    text: " "
     button: Find Out More
     buttonlink: "#about"
     height: 960px
