@@ -17,3 +17,5 @@ caption:
 - 사고차량 차종: 2018 Tesla Model 3
 - 충돌 시 차량 속도: 111kph(69mph)
 - 차량 손상 위치: 차량 전면(차량 루프탑 분리)
+
+**Download Link**: Link  
