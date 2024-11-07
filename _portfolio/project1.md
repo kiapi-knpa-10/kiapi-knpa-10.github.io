@@ -8,10 +8,12 @@ caption:
   title: Case no.1  / Scene no.1
   subtitle: "- 실도로 -"
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
----
+--- 
+
+{:.list-inline}
 **Sequence 1**: 교차로에서 Ego차량이 자율주행 기능을 활성화한 채 주행  
 **Sequence 2**: 우측 차로에서 트럭이 좌측으로 좌회전  
-**Sequence 3**: Ego차량이 트럭의 측면과 충돌  
+**Sequence 3**: Ego차량이 트럭의 측면과 충돌 
 
 {:.list-inline}
 - 사고차량 차종: 2018 Tesla Model 3
