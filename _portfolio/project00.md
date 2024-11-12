@@ -1,11 +1,11 @@
 ---
-title: Scenario no.1
+title: Scenario no.1-R
 subtitle: "- 실도로 -"
 image: assets/img/portfolio/01-full.jpg
 alt: Shirts on a hanger
 
 caption:
-  title: Scenario no.1
+  title: Scenario no.1-R
   subtitle: "- 실도로 -"
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 --- 
@@ -19,4 +19,4 @@ caption:
 - **충돌 시 차량 속도**: 111kph(69mph)
 - **차량 손상 위치**: 차량 전면(차량 루프탑 분리)
 
-**Download Link**: [Link  ](https://gofile.me/5HZpx/UZ2yethi8)
+**Download**: [Link  ](https://gofile.me/5HZpx/UZ2yethi8)

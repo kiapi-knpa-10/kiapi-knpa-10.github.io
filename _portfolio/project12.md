@@ -1,11 +1,11 @@
 ---
-title: Scenario no.6
+title: Scenario no.6-R
 subtitle: "- 실도로 -"
 image: assets/img/portfolio/06-full.jpg
 alt: Shirts on a hanger
 
 caption:
-  title: Scenario no.6
+  title: Scenario no.6-R
   subtitle: "- 실도로 -"
   thumbnail: assets/img/portfolio/06-thumbnail.jpg
 --- 
@@ -19,4 +19,4 @@ caption:
 - **충돌 시 차량 속도**: 20km/h(12mph)
 - **차량 손상 위치**: 차량 좌측면
 
-**Download Link**: [Link  ](https://gofile.me/5HZpx/Euun4dAWv)
+**Download**: [Link  ](https://gofile.me/5HZpx/Euun4dAWv)

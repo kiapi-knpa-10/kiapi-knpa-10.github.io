@@ -1,13 +1,13 @@
 ---
-title: Scenario no.3
+title: Scenario no.3-P
 subtitle: "- 주행시험장 -"
-image: assets/img/portfolio/03-full.jpg
+image: assets/img/portfolio/p-03-full.jpg
 alt: Shirts on a hanger
 
 caption:
-  title: Scenario no.3
+  title: Scenario no.3-P
   subtitle: "- 주행시험장 -"
-  thumbnail: assets/img/portfolio/03-thumbnail.jpg
+  thumbnail: assets/img/portfolio/p-03-thumbnail.jpg
 --- 
 
 {:.list-inline}
@@ -19,5 +19,5 @@ caption:
 - **충돌 시 차량 속도**: 119km/h(74mph)
 - **차량 손상 위치**: 차량 전면
 
-**Download Link**: Link  
+**Download**: [Link  ]()
 
