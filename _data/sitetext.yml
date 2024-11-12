@@ -24,7 +24,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Contents"
-    text: 
+    text: "데이터 공유 문의: thkim@kiapi.or.kr / kwnsdud@kiapi.or.kr"
     section: portfolio
     closebutton: "Close"
 
