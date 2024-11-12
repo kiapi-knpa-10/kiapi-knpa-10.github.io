@@ -1,19 +1,23 @@
 ---
-title: Case no.3  / Scene no.1
+title: Scenario no.3
 subtitle: "- 실도로 -"
-image: assets/img/portfolio/01-full.jpg
+image: assets/img/portfolio/03-full.jpg
 alt: Shirts on a hanger
 
 caption:
-title: Case no.3  / Scene no.1
+  title: Scenario no.3
   subtitle: "- 실도로 -"
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
----
-**Sequence 1**: 
-**Sequence 2**: 
-**Sequence 3**: 
+  thumbnail: assets/img/portfolio/03-thumbnail.jpg
+--- 
 
 {:.list-inline}
-- 사고차량 차종: 
-- 충돌 시 차량 속도: kph(mph)
-- 차량 손상 위치: 
+- **Sequence 1**: 교차로에서 Ego차량이 자율주행 기능을 활성화한 채 주행
+- **Sequence 2**: Ego차량이 교차로에 진입할 때 반대 차선에서 차량 1대가 좌회전
+- **Sequence 3**: Ego차량과 좌회전 중인 차량 우측면과 충돌
+
+- **사고차량 차종**: Unknown
+- **충돌 시 차량 속도**: 119km/h(74mph)
+- **차량 손상 위치**: 차량 전면
+
+**Download Link**: Link  
+
