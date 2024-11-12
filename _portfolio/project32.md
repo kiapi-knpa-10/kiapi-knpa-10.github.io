@@ -19,4 +19,4 @@ caption:
 - **충돌 시 차량 속도**: 20km/h(12mph)
 - **차량 손상 위치**: 차량 좌측면
 
-**Download**: [Link  ]()
+**Download**: [Link  ](https://gofile.me/5HZpx/MPDVC6iij)

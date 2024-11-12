@@ -19,4 +19,4 @@ caption:
 - **충돌 시 차량 속도**: 119km/h(74mph)
 - **차량 손상 위치**: 차량 우측면
 
-**Download**: [Link  ]()
+**Download**: [Link  ](https://gofile.me/5HZpx/XhC1ye5SE)
